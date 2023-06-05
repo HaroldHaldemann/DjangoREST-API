@@ -11,7 +11,6 @@ class User(AbstractUser):
 
     is_active = models.BooleanField(default=True)
     is_staff = models.BooleanField(default=True)
-    is_superuser = models.BooleanField(default=True)
 
 
 class Project(models.Model):
