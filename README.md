@@ -1,6 +1,6 @@
 # Introduction
 This project is an API developped with for an issue tracking system.
-The endpoints of this API and their usage are described in the [Postman documentation]()
+The endpoints of this API and their usage are described in the [Postman documentation](https://documenter.getpostman.com/view/25447803/2s93sXbZfn)
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ You must have Python 3.6 or higher installed in order to execute this code.
 1 - Clone the github Repository.
 
 ```bash
-git clone https://github.com/HaroldHaldemann/DjangoApp
+git clone https://github.com/HaroldHaldemann/DjangoREST-API
 ```
 
 2 - Create your virtual environment.
@@ -69,4 +69,4 @@ python ./manage.py runserver
 
 The server will be available at http://127.0.0.1:8000/
 
-Every endpoints and their documentation are available in the [Postman documentation]()
+Every endpoints and their documentation are available in the [Postman documentation](https://documenter.getpostman.com/view/25447803/2s93sXbZfn)
